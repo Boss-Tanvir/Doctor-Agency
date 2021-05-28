@@ -1,0 +1,12 @@
+.blog_card {
+  border-color: transparent !important;
+}
+.col-md-4.card.shadow-sm.blog_card {
+  width: 30%;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.card-header.d-flex.align-items-center {
+  background: transparent;
+  border: 0;
+}

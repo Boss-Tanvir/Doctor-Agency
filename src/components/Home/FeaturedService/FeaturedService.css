@@ -1,0 +1,14 @@
+.featured {
+  /* height: 400px; */
+}
+.featured_img {
+  display: flex;
+  align-items: center;
+}
+.featured_main_img {
+  /* height: 350px; */
+}
+.features_details_col {
+  display: flex;
+  align-items: center;
+}

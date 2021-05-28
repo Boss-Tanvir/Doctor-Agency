@@ -1,0 +1,11 @@
+.testimonial .card {
+  border-color: transparent;
+}
+.col-md-4.card.shadow.testimonial {
+  width: 30%;
+  margin-right: 20px;
+}
+.testimonial .card .card-footer {
+  background: transparent;
+  border: 0;
+}
